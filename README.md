@@ -9,7 +9,7 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover](https://github.com/rodrigorgtic/gameplay-nlw-together/blob/master/.github/cover.png)
 
 
 ## 💻 Projeto
